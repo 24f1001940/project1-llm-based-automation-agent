@@ -1,0 +1,12 @@
+echo "
+__pycache__/
+.vscode/
+*.log
+*.db
+.env
+.DS_Store
+venv/
+.idea/
+*.pyc
+docker-compose.override.yml
+" > .gitignore

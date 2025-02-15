@@ -1,0 +1,15 @@
+eyJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6IjI0ZjEwMDE5NDBAZHMuc3R1ZHkuaWl0bS5hYy5pbiJ9.RlutMlb_XW_gJNQsauiP77MKmlv4mrvB3WXCCU7ppWI
+
+
+
+curl -O https://raw.githubusercontent.com/sanand0/tools-in-data-science-public/tds-2025-01/project-1/datagen.py
+python datagen.py 24f1001940@ds.study.iitm.ac.in
+
+
+
+python datagen.py your-email@example.com
+
+
+
+docker run -e AIPROXY_TOKEN=eyJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6IjI0ZjEwMDE5NDBAZHMuc3R1ZHkuaWl0bS5hYy5pbiJ9.RlutMlb_XW_gJNQsauiP77MKmlv4mrvB3WXCCU7ppWI
+ -p 8000:8000 llm-agent

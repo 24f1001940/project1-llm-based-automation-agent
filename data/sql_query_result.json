@@ -1,0 +1,5002 @@
+[
+    {
+        "type": "Gold",
+        "units": 8,
+        "price": 123.6
+    },
+    {
+        "type": "Bronze",
+        "units": 3,
+        "price": 89.07
+    },
+    {
+        "type": "Silver",
+        "units": 7,
+        "price": 115.2
+    },
+    {
+        "type": "Silver",
+        "units": 7,
+        "price": 50.53
+    },
+    {
+        "type": "Gold",
+        "units": 10,
+        "price": 131.77
+    },
+    {
+        "type": "Silver",
+        "units": 3,
+        "price": 140.64
+    },
+    {
+        "type": "Silver",
+        "units": 10,
+        "price": 115.1
+    },
+    {
+        "type": "Gold",
+        "units": 8,
+        "price": 51.94
+    },
+    {
+        "type": "Gold",
+        "units": 9,
+        "price": 133.19
+    },
+    {
+        "type": "Bronze",
+        "units": 9,
+        "price": 56.68
+    },
+    {
+        "type": "Gold",
+        "units": 4,
+        "price": 69.96
+    },
+    {
+        "type": "Bronze",
+        "units": 10,
+        "price": 101.82
+    },
+    {
+        "type": "Bronze",
+        "units": 6,
+        "price": 80
+    },
+    {
+        "type": "Silver",
+        "units": 8,
+        "price": 94.79
+    },
+    {
+        "type": "Silver",
+        "units": 4,
+        "price": 111.88
+    },
+    {
+        "type": "Gold",
+        "units": 1,
+        "price": 84.7
+    },
+    {
+        "type": "Bronze",
+        "units": 7,
+        "price": 59.12
+    },
+    {
+        "type": "Gold",
+        "units": 1,
+        "price": 118.43
+    },
+    {
+        "type": "Bronze",
+        "units": 5,
+        "price": 111.88
+    },
+    {
+        "type": "Bronze",
+        "units": 6,
+        "price": 147.83
+    },
+    {
+        "type": "Silver",
+        "units": 1,
+        "price": 83.54
+    },
+    {
+        "type": "Gold",
+        "units": 8,
+        "price": 146.58
+    },
+    {
+        "type": "Bronze",
+        "units": 8,
+        "price": 87.47
+    },
+    {
+        "type": "Silver",
+        "units": 6,
+        "price": 76.42
+    },
+    {
+        "type": "Gold",
+        "units": 10,
+        "price": 65.54
+    },
+    {
+        "type": "Gold",
+        "units": 6,
+        "price": 65.48
+    },
+    {
+        "type": "Bronze",
+        "units": 8,
+        "price": 51.21
+    },
+    {
+        "type": "Silver",
+        "units": 10,
+        "price": 91.58
+    },
+    {
+        "type": "Silver",
+        "units": 9,
+        "price": 65.4
+    },
+    {
+        "type": "Silver",
+        "units": 6,
+        "price": 128.05
+    },
+    {
+        "type": "Gold",
+        "units": 1,
+        "price": 56.5
+    },
+    {
+        "type": "Bronze",
+        "units": 8,
+        "price": 95.43
+    },
+    {
+        "type": "Silver",
+        "units": 4,
+        "price": 59.82
+    },
+    {
+        "type": "Silver",
+        "units": 4,
+        "price": 132.55
+    },
+    {
+        "type": "Silver",
+        "units": 9,
+        "price": 52.6
+    },
+    {
+        "type": "Bronze",
+        "units": 2,
+        "price": 137.71
+    },
+    {
+        "type": "Silver",
+        "units": 5,
+        "price": 74.67
+    },
+    {
+        "type": "Bronze",
+        "units": 1,
+        "price": 85.41
+    },
+    {
+        "type": "Bronze",
+        "units": 2,
+        "price": 76.47
+    },
+    {
+        "type": "Silver",
+        "units": 1,
+        "price": 145.96
+    },
+    {
+        "type": "Silver",
+        "units": 3,
+        "price": 85.5
+    },
+    {
+        "type": "Bronze",
+        "units": 1,
+        "price": 58.92
+    },
+    {
+        "type": "Gold",
+        "units": 5,
+        "price": 118.03
+    },
+    {
+        "type": "Gold",
+        "units": 9,
+        "price": 53.63
+    },
+    {
+        "type": "Silver",
+        "units": 5,
+        "price": 132.85
+    },
+    {
+        "type": "Gold",
+        "units": 2,
+        "price": 99.84
+    },
+    {
+        "type": "Bronze",
+        "units": 9,
+        "price": 82.06
+    },
+    {
+        "type": "Bronze",
+        "units": 7,
+        "price": 83.32
+    },
+    {
+        "type": "Bronze",
+        "units": 9,
+        "price": 94.9
+    },
+    {
+        "type": "Silver",
+        "units": 7,
+        "price": 134.88
+    },
+    {
+        "type": "Gold",
+        "units": 5,
+        "price": 55.01
+    },
+    {
+        "type": "Bronze",
+        "units": 7,
+        "price": 135.35
+    },
+    {
+        "type": "Silver",
+        "units": 1,
+        "price": 138.61
+    },
+    {
+        "type": "Gold",
+        "units": 6,
+        "price": 148.06
+    },
+    {
+        "type": "Gold",
+        "units": 8,
+        "price": 128.86
+    },
+    {
+        "type": "Bronze",
+        "units": 9,
+        "price": 80.89
+    },
+    {
+        "type": "Silver",
+        "units": 4,
+        "price": 58.45
+    },
+    {
+        "type": "Bronze",
+        "units": 3,
+        "price": 107.15
+    },
+    {
+        "type": "Silver",
+        "units": 1,
+        "price": 129.58
+    },
+    {
+        "type": "Silver",
+        "units": 4,
+        "price": 126.48
+    },
+    {
+        "type": "Silver",
+        "units": 10,
+        "price": 143.15
+    },
+    {
+        "type": "Silver",
+        "units": 9,
+        "price": 123.78
+    },
+    {
+        "type": "Gold",
+        "units": 8,
+        "price": 62.23
+    },
+    {
+        "type": "Silver",
+        "units": 4,
+        "price": 108.36
+    },
+    {
+        "type": "Gold",
+        "units": 3,
+        "price": 100.13
+    },
+    {
+        "type": "Gold",
+        "units": 5,
+        "price": 130.86
+    },
+    {
+        "type": "Gold",
+        "units": 3,
+        "price": 104.87
+    },
+    {
+        "type": "Gold",
+        "units": 4,
+        "price": 53.27
+    },
+    {
+        "type": "Bronze",
+        "units": 4,
+        "price": 83.81
+    },
+    {
+        "type": "Silver",
+        "units": 3,
+        "price": 81.85
+    },
+    {
+        "type": "Bronze",
+        "units": 4,
+        "price": 127.34
+    },
+    {
+        "type": "Silver",
+        "units": 3,
+        "price": 54.34
+    },
+    {
+        "type": "Bronze",
+        "units": 8,
+        "price": 124.45
+    },
+    {
+        "type": "Silver",
+        "units": 5,
+        "price": 79.49
+    },
+    {
+        "type": "Gold",
+        "units": 2,
+        "price": 129.14
+    },
+    {
+        "type": "Gold",
+        "units": 6,
+        "price": 94.61
+    },
+    {
+        "type": "Gold",
+        "units": 9,
+        "price": 103.77
+    },
+    {
+        "type": "Silver",
+        "units": 5,
+        "price": 81.26
+    },
+    {
+        "type": "Gold",
+        "units": 1,
+        "price": 137.69
+    },
+    {
+        "type": "Silver",
+        "units": 8,
+        "price": 91.74
+    },
+    {
+        "type": "Bronze",
+        "units": 9,
+        "price": 116.55
+    },
+    {
+        "type": "Gold",
+        "units": 8,
+        "price": 81.53
+    },
+    {
+        "type": "Gold",
+        "units": 5,
+        "price": 85.58
+    },
+    {
+        "type": "Gold",
+        "units": 7,
+        "price": 77.9
+    },
+    {
+        "type": "Silver",
+        "units": 6,
+        "price": 113.22
+    },
+    {
+        "type": "Gold",
+        "units": 9,
+        "price": 101.01
+    },
+    {
+        "type": "Bronze",
+        "units": 8,
+        "price": 92.14
+    },
+    {
+        "type": "Gold",
+        "units": 2,
+        "price": 117.46
+    },
+    {
+        "type": "Silver",
+        "units": 8,
+        "price": 140.57
+    },
+    {
+        "type": "Silver",
+        "units": 7,
+        "price": 102.47
+    },
+    {
+        "type": "Silver",
+        "units": 5,
+        "price": 141.5
+    },
+    {
+        "type": "Silver",
+        "units": 5,
+        "price": 91.46
+    },
+    {
+        "type": "Gold",
+        "units": 4,
+        "price": 107.74
+    },
+    {
+        "type": "Silver",
+        "units": 3,
+        "price": 74.24
+    },
+    {
+        "type": "Silver",
+        "units": 2,
+        "price": 83.69
+    },
+    {
+        "type": "Gold",
+        "units": 5,
+        "price": 100.86
+    },
+    {
+        "type": "Gold",
+        "units": 2,
+        "price": 147.95
+    },
+    {
+        "type": "Bronze",
+        "units": 4,
+        "price": 79.5
+    },
+    {
+        "type": "Silver",
+        "units": 6,
+        "price": 112.53
+    },
+    {
+        "type": "Silver",
+        "units": 10,
+        "price": 78.21
+    },
+    {
+        "type": "Gold",
+        "units": 1,
+        "price": 145.41
+    },
+    {
+        "type": "Bronze",
+        "units": 1,
+        "price": 134.26
+    },
+    {
+        "type": "Bronze",
+        "units": 5,
+        "price": 75.99
+    },
+    {
+        "type": "Silver",
+        "units": 6,
+        "price": 108.62
+    },
+    {
+        "type": "Bronze",
+        "units": 2,
+        "price": 116.98
+    },
+    {
+        "type": "Silver",
+        "units": 2,
+        "price": 89.85
+    },
+    {
+        "type": "Silver",
+        "units": 9,
+        "price": 129.88
+    },
+    {
+        "type": "Silver",
+        "units": 10,
+        "price": 81.81
+    },
+    {
+        "type": "Bronze",
+        "units": 6,
+        "price": 149.76
+    },
+    {
+        "type": "Silver",
+        "units": 10,
+        "price": 83.21
+    },
+    {
+        "type": "Silver",
+        "units": 8,
+        "price": 135.94
+    },
+    {
+        "type": "Bronze",
+        "units": 10,
+        "price": 128.52
+    },
+    {
+        "type": "Bronze",
+        "units": 1,
+        "price": 145.31
+    },
+    {
+        "type": "Silver",
+        "units": 4,
+        "price": 125.42
+    },
+    {
+        "type": "Gold",
+        "units": 5,
+        "price": 132.38
+    },
+    {
+        "type": "Bronze",
+        "units": 7,
+        "price": 97.21
+    },
+    {
+        "type": "Silver",
+        "units": 9,
+        "price": 64.77
+    },
+    {
+        "type": "Bronze",
+        "units": 2,
+        "price": 121.83
+    },
+    {
+        "type": "Silver",
+        "units": 5,
+        "price": 72.79
+    },
+    {
+        "type": "Bronze",
+        "units": 9,
+        "price": 132.98
+    },
+    {
+        "type": "Silver",
+        "units": 5,
+        "price": 84.23
+    },
+    {
+        "type": "Gold",
+        "units": 5,
+        "price": 126.64
+    },
+    {
+        "type": "Gold",
+        "units": 9,
+        "price": 143.36
+    },
+    {
+        "type": "Silver",
+        "units": 2,
+        "price": 62.73
+    },
+    {
+        "type": "Bronze",
+        "units": 9,
+        "price": 89.2
+    },
+    {
+        "type": "Silver",
+        "units": 3,
+        "price": 54.34
+    },
+    {
+        "type": "Gold",
+        "units": 10,
+        "price": 62.2
+    },
+    {
+        "type": "Bronze",
+        "units": 4,
+        "price": 120.98
+    },
+    {
+        "type": "Silver",
+        "units": 1,
+        "price": 95.34
+    },
+    {
+        "type": "Gold",
+        "units": 7,
+        "price": 135.67
+    },
+    {
+        "type": "Bronze",
+        "units": 2,
+        "price": 131.27
+    },
+    {
+        "type": "Gold",
+        "units": 5,
+        "price": 63.98
+    },
+    {
+        "type": "Silver",
+        "units": 2,
+        "price": 147.93
+    },
+    {
+        "type": "Gold",
+        "units": 2,
+        "price": 95.4
+    },
+    {
+        "type": "Silver",
+        "units": 9,
+        "price": 124.24
+    },
+    {
+        "type": "Bronze",
+        "units": 7,
+        "price": 74.85
+    },
+    {
+        "type": "Bronze",
+        "units": 4,
+        "price": 83.3
+    },
+    {
+        "type": "Silver",
+        "units": 3,
+        "price": 50.75
+    },
+    {
+        "type": "Bronze",
+        "units": 9,
+        "price": 133.19
+    },
+    {
+        "type": "Bronze",
+        "units": 9,
+        "price": 118.57
+    },
+    {
+        "type": "Silver",
+        "units": 7,
+        "price": 70.95
+    },
+    {
+        "type": "Gold",
+        "units": 8,
+        "price": 132.16
+    },
+    {
+        "type": "Silver",
+        "units": 10,
+        "price": 147.37
+    },
+    {
+        "type": "Silver",
+        "units": 3,
+        "price": 69.98
+    },
+    {
+        "type": "Silver",
+        "units": 2,
+        "price": 124.4
+    },
+    {
+        "type": "Gold",
+        "units": 2,
+        "price": 63.94
+    },
+    {
+        "type": "Bronze",
+        "units": 3,
+        "price": 110.04
+    },
+    {
+        "type": "Silver",
+        "units": 2,
+        "price": 103.78
+    },
+    {
+        "type": "Gold",
+        "units": 4,
+        "price": 114.46
+    },
+    {
+        "type": "Gold",
+        "units": 10,
+        "price": 123.72
+    },
+    {
+        "type": "Gold",
+        "units": 2,
+        "price": 71.07
+    },
+    {
+        "type": "Gold",
+        "units": 2,
+        "price": 116.09
+    },
+    {
+        "type": "Gold",
+        "units": 5,
+        "price": 58.13
+    },
+    {
+        "type": "Bronze",
+        "units": 8,
+        "price": 75.55
+    },
+    {
+        "type": "Silver",
+        "units": 2,
+        "price": 76.96
+    },
+    {
+        "type": "Gold",
+        "units": 2,
+        "price": 68.53
+    },
+    {
+        "type": "Silver",
+        "units": 8,
+        "price": 142.53
+    },
+    {
+        "type": "Gold",
+        "units": 9,
+        "price": 82.89
+    },
+    {
+        "type": "Bronze",
+        "units": 8,
+        "price": 139.92
+    },
+    {
+        "type": "Gold",
+        "units": 7,
+        "price": 109.5
+    },
+    {
+        "type": "Gold",
+        "units": 9,
+        "price": 70.71
+    },
+    {
+        "type": "Bronze",
+        "units": 10,
+        "price": 83.79
+    },
+    {
+        "type": "Bronze",
+        "units": 10,
+        "price": 74.33
+    },
+    {
+        "type": "Gold",
+        "units": 10,
+        "price": 97.73
+    },
+    {
+        "type": "Silver",
+        "units": 3,
+        "price": 85.37
+    },
+    {
+        "type": "Silver",
+        "units": 7,
+        "price": 55.59
+    },
+    {
+        "type": "Bronze",
+        "units": 5,
+        "price": 120.09
+    },
+    {
+        "type": "Gold",
+        "units": 5,
+        "price": 94.28
+    },
+    {
+        "type": "Silver",
+        "units": 1,
+        "price": 97.56
+    },
+    {
+        "type": "Bronze",
+        "units": 6,
+        "price": 148.53
+    },
+    {
+        "type": "Silver",
+        "units": 10,
+        "price": 76.55
+    },
+    {
+        "type": "Bronze",
+        "units": 9,
+        "price": 90.13
+    },
+    {
+        "type": "Silver",
+        "units": 4,
+        "price": 100.15
+    },
+    {
+        "type": "Silver",
+        "units": 1,
+        "price": 116.2
+    },
+    {
+        "type": "Gold",
+        "units": 6,
+        "price": 123.53
+    },
+    {
+        "type": "Gold",
+        "units": 3,
+        "price": 122.41
+    },
+    {
+        "type": "Silver",
+        "units": 3,
+        "price": 100.9
+    },
+    {
+        "type": "Silver",
+        "units": 4,
+        "price": 146.19
+    },
+    {
+        "type": "Silver",
+        "units": 1,
+        "price": 94.21
+    },
+    {
+        "type": "Gold",
+        "units": 6,
+        "price": 93.79
+    },
+    {
+        "type": "Gold",
+        "units": 5,
+        "price": 60.48
+    },
+    {
+        "type": "Bronze",
+        "units": 10,
+        "price": 83.79
+    },
+    {
+        "type": "Silver",
+        "units": 5,
+        "price": 53.94
+    },
+    {
+        "type": "Bronze",
+        "units": 1,
+        "price": 96.44
+    },
+    {
+        "type": "Bronze",
+        "units": 1,
+        "price": 125.05
+    },
+    {
+        "type": "Gold",
+        "units": 5,
+        "price": 96.99
+    },
+    {
+        "type": "Silver",
+        "units": 5,
+        "price": 148.17
+    },
+    {
+        "type": "Bronze",
+        "units": 9,
+        "price": 79.49
+    },
+    {
+        "type": "Bronze",
+        "units": 10,
+        "price": 93.56
+    },
+    {
+        "type": "Bronze",
+        "units": 6,
+        "price": 51.27
+    },
+    {
+        "type": "Silver",
+        "units": 3,
+        "price": 61.16
+    },
+    {
+        "type": "Gold",
+        "units": 8,
+        "price": 82.07
+    },
+    {
+        "type": "Gold",
+        "units": 6,
+        "price": 136.61
+    },
+    {
+        "type": "Bronze",
+        "units": 7,
+        "price": 90.6
+    },
+    {
+        "type": "Silver",
+        "units": 3,
+        "price": 90.56
+    },
+    {
+        "type": "Bronze",
+        "units": 1,
+        "price": 82.95
+    },
+    {
+        "type": "Gold",
+        "units": 3,
+        "price": 68.44
+    },
+    {
+        "type": "Bronze",
+        "units": 8,
+        "price": 87.84
+    },
+    {
+        "type": "Silver",
+        "units": 7,
+        "price": 117.41
+    },
+    {
+        "type": "Gold",
+        "units": 7,
+        "price": 97.81
+    },
+    {
+        "type": "Gold",
+        "units": 8,
+        "price": 132.37
+    },
+    {
+        "type": "Silver",
+        "units": 6,
+        "price": 102.9
+    },
+    {
+        "type": "Silver",
+        "units": 8,
+        "price": 123
+    },
+    {
+        "type": "Silver",
+        "units": 10,
+        "price": 97.78
+    },
+    {
+        "type": "Gold",
+        "units": 6,
+        "price": 93.17
+    },
+    {
+        "type": "Bronze",
+        "units": 7,
+        "price": 94.99
+    },
+    {
+        "type": "Gold",
+        "units": 8,
+        "price": 54.23
+    },
+    {
+        "type": "Gold",
+        "units": 3,
+        "price": 109.7
+    },
+    {
+        "type": "Gold",
+        "units": 10,
+        "price": 106.26
+    },
+    {
+        "type": "Bronze",
+        "units": 1,
+        "price": 53.25
+    },
+    {
+        "type": "Silver",
+        "units": 1,
+        "price": 93.43
+    },
+    {
+        "type": "Silver",
+        "units": 10,
+        "price": 90.05
+    },
+    {
+        "type": "Gold",
+        "units": 6,
+        "price": 78.05
+    },
+    {
+        "type": "Gold",
+        "units": 6,
+        "price": 74.17
+    },
+    {
+        "type": "Silver",
+        "units": 10,
+        "price": 83.4
+    },
+    {
+        "type": "Silver",
+        "units": 10,
+        "price": 99.97
+    },
+    {
+        "type": "Silver",
+        "units": 6,
+        "price": 100.52
+    },
+    {
+        "type": "Silver",
+        "units": 7,
+        "price": 142.17
+    },
+    {
+        "type": "Gold",
+        "units": 5,
+        "price": 77.76
+    },
+    {
+        "type": "Bronze",
+        "units": 2,
+        "price": 74.6
+    },
+    {
+        "type": "Gold",
+        "units": 1,
+        "price": 107.18
+    },
+    {
+        "type": "Silver",
+        "units": 5,
+        "price": 104.91
+    },
+    {
+        "type": "Silver",
+        "units": 7,
+        "price": 128.41
+    },
+    {
+        "type": "Gold",
+        "units": 6,
+        "price": 133.28
+    },
+    {
+        "type": "Bronze",
+        "units": 10,
+        "price": 87.21
+    },
+    {
+        "type": "Silver",
+        "units": 3,
+        "price": 122.83
+    },
+    {
+        "type": "Gold",
+        "units": 6,
+        "price": 122.06
+    },
+    {
+        "type": "Silver",
+        "units": 8,
+        "price": 125.27
+    },
+    {
+        "type": "Gold",
+        "units": 4,
+        "price": 115.18
+    },
+    {
+        "type": "Gold",
+        "units": 5,
+        "price": 148.68
+    },
+    {
+        "type": "Silver",
+        "units": 1,
+        "price": 103.48
+    },
+    {
+        "type": "Bronze",
+        "units": 4,
+        "price": 103.52
+    },
+    {
+        "type": "Bronze",
+        "units": 4,
+        "price": 103.83
+    },
+    {
+        "type": "Silver",
+        "units": 8,
+        "price": 108.27
+    },
+    {
+        "type": "Gold",
+        "units": 6,
+        "price": 75.77
+    },
+    {
+        "type": "Bronze",
+        "units": 2,
+        "price": 137.42
+    },
+    {
+        "type": "Gold",
+        "units": 7,
+        "price": 124.44
+    },
+    {
+        "type": "Bronze",
+        "units": 5,
+        "price": 122.72
+    },
+    {
+        "type": "Bronze",
+        "units": 5,
+        "price": 111.68
+    },
+    {
+        "type": "Bronze",
+        "units": 5,
+        "price": 106.47
+    },
+    {
+        "type": "Gold",
+        "units": 2,
+        "price": 73.97
+    },
+    {
+        "type": "Silver",
+        "units": 5,
+        "price": 131.91
+    },
+    {
+        "type": "Gold",
+        "units": 8,
+        "price": 94.57
+    },
+    {
+        "type": "Gold",
+        "units": 1,
+        "price": 129.85
+    },
+    {
+        "type": "Silver",
+        "units": 7,
+        "price": 78.08
+    },
+    {
+        "type": "Gold",
+        "units": 9,
+        "price": 63.52
+    },
+    {
+        "type": "Gold",
+        "units": 8,
+        "price": 66.16
+    },
+    {
+        "type": "Silver",
+        "units": 6,
+        "price": 113.31
+    },
+    {
+        "type": "Bronze",
+        "units": 2,
+        "price": 118.59
+    },
+    {
+        "type": "Silver",
+        "units": 1,
+        "price": 107.79
+    },
+    {
+        "type": "Gold",
+        "units": 7,
+        "price": 75.86
+    },
+    {
+        "type": "Bronze",
+        "units": 5,
+        "price": 50.16
+    },
+    {
+        "type": "Silver",
+        "units": 7,
+        "price": 94.73
+    },
+    {
+        "type": "Gold",
+        "units": 1,
+        "price": 99.32
+    },
+    {
+        "type": "Silver",
+        "units": 4,
+        "price": 51.96
+    },
+    {
+        "type": "Silver",
+        "units": 3,
+        "price": 60.95
+    },
+    {
+        "type": "Silver",
+        "units": 10,
+        "price": 65.62
+    },
+    {
+        "type": "Silver",
+        "units": 7,
+        "price": 130.23
+    },
+    {
+        "type": "Silver",
+        "units": 3,
+        "price": 132.69
+    },
+    {
+        "type": "Bronze",
+        "units": 2,
+        "price": 81.61
+    },
+    {
+        "type": "Gold",
+        "units": 6,
+        "price": 83.92
+    },
+    {
+        "type": "Bronze",
+        "units": 5,
+        "price": 87.6
+    },
+    {
+        "type": "Gold",
+        "units": 3,
+        "price": 105.53
+    },
+    {
+        "type": "Gold",
+        "units": 7,
+        "price": 123.36
+    },
+    {
+        "type": "Silver",
+        "units": 8,
+        "price": 85.61
+    },
+    {
+        "type": "Bronze",
+        "units": 7,
+        "price": 99.2
+    },
+    {
+        "type": "Bronze",
+        "units": 7,
+        "price": 139.56
+    },
+    {
+        "type": "Silver",
+        "units": 2,
+        "price": 80.63
+    },
+    {
+        "type": "Gold",
+        "units": 6,
+        "price": 149.3
+    },
+    {
+        "type": "Silver",
+        "units": 6,
+        "price": 118.84
+    },
+    {
+        "type": "Gold",
+        "units": 3,
+        "price": 84.99
+    },
+    {
+        "type": "Silver",
+        "units": 9,
+        "price": 112.92
+    },
+    {
+        "type": "Silver",
+        "units": 2,
+        "price": 137.95
+    },
+    {
+        "type": "Silver",
+        "units": 2,
+        "price": 80.2
+    },
+    {
+        "type": "Bronze",
+        "units": 3,
+        "price": 118.04
+    },
+    {
+        "type": "Silver",
+        "units": 2,
+        "price": 82.89
+    },
+    {
+        "type": "Bronze",
+        "units": 4,
+        "price": 54.68
+    },
+    {
+        "type": "Bronze",
+        "units": 6,
+        "price": 99.52
+    },
+    {
+        "type": "Gold",
+        "units": 3,
+        "price": 80.86
+    },
+    {
+        "type": "Silver",
+        "units": 10,
+        "price": 116.72
+    },
+    {
+        "type": "Silver",
+        "units": 2,
+        "price": 81.31
+    },
+    {
+        "type": "Silver",
+        "units": 10,
+        "price": 130.75
+    },
+    {
+        "type": "Bronze",
+        "units": 2,
+        "price": 54.24
+    },
+    {
+        "type": "Silver",
+        "units": 6,
+        "price": 120.34
+    },
+    {
+        "type": "Silver",
+        "units": 3,
+        "price": 76.86
+    },
+    {
+        "type": "Bronze",
+        "units": 1,
+        "price": 93.09
+    },
+    {
+        "type": "Bronze",
+        "units": 10,
+        "price": 133.14
+    },
+    {
+        "type": "Bronze",
+        "units": 5,
+        "price": 103.31
+    },
+    {
+        "type": "Gold",
+        "units": 7,
+        "price": 95.97
+    },
+    {
+        "type": "Silver",
+        "units": 4,
+        "price": 86.09
+    },
+    {
+        "type": "Bronze",
+        "units": 4,
+        "price": 65.94
+    },
+    {
+        "type": "Silver",
+        "units": 1,
+        "price": 102.53
+    },
+    {
+        "type": "Silver",
+        "units": 8,
+        "price": 105.29
+    },
+    {
+        "type": "Gold",
+        "units": 7,
+        "price": 136.52
+    },
+    {
+        "type": "Bronze",
+        "units": 8,
+        "price": 62.72
+    },
+    {
+        "type": "Silver",
+        "units": 8,
+        "price": 56.69
+    },
+    {
+        "type": "Silver",
+        "units": 9,
+        "price": 131.2
+    },
+    {
+        "type": "Gold",
+        "units": 2,
+        "price": 53.4
+    },
+    {
+        "type": "Gold",
+        "units": 1,
+        "price": 101.69
+    },
+    {
+        "type": "Silver",
+        "units": 1,
+        "price": 99.69
+    },
+    {
+        "type": "Gold",
+        "units": 2,
+        "price": 99.49
+    },
+    {
+        "type": "Silver",
+        "units": 4,
+        "price": 141.78
+    },
+    {
+        "type": "Silver",
+        "units": 8,
+        "price": 56.46
+    },
+    {
+        "type": "Bronze",
+        "units": 6,
+        "price": 89.32
+    },
+    {
+        "type": "Bronze",
+        "units": 4,
+        "price": 72.38
+    },
+    {
+        "type": "Gold",
+        "units": 2,
+        "price": 107.44
+    },
+    {
+        "type": "Gold",
+        "units": 3,
+        "price": 127.5
+    },
+    {
+        "type": "Gold",
+        "units": 10,
+        "price": 70.3
+    },
+    {
+        "type": "Bronze",
+        "units": 8,
+        "price": 70.77
+    },
+    {
+        "type": "Gold",
+        "units": 4,
+        "price": 137.13
+    },
+    {
+        "type": "Gold",
+        "units": 10,
+        "price": 140.87
+    },
+    {
+        "type": "Bronze",
+        "units": 5,
+        "price": 73.57
+    },
+    {
+        "type": "Gold",
+        "units": 6,
+        "price": 82.4
+    },
+    {
+        "type": "Gold",
+        "units": 1,
+        "price": 54.73
+    },
+    {
+        "type": "Bronze",
+        "units": 4,
+        "price": 54.65
+    },
+    {
+        "type": "Silver",
+        "units": 3,
+        "price": 118.78
+    },
+    {
+        "type": "Bronze",
+        "units": 2,
+        "price": 118.62
+    },
+    {
+        "type": "Silver",
+        "units": 9,
+        "price": 129.97
+    },
+    {
+        "type": "Gold",
+        "units": 7,
+        "price": 99.45
+    },
+    {
+        "type": "Bronze",
+        "units": 1,
+        "price": 51.17
+    },
+    {
+        "type": "Bronze",
+        "units": 6,
+        "price": 111.4
+    },
+    {
+        "type": "Gold",
+        "units": 5,
+        "price": 108.33
+    },
+    {
+        "type": "Gold",
+        "units": 1,
+        "price": 137.22
+    },
+    {
+        "type": "Silver",
+        "units": 1,
+        "price": 144.72
+    },
+    {
+        "type": "Bronze",
+        "units": 6,
+        "price": 93.49
+    },
+    {
+        "type": "Bronze",
+        "units": 6,
+        "price": 123.64
+    },
+    {
+        "type": "Bronze",
+        "units": 2,
+        "price": 134.81
+    },
+    {
+        "type": "Bronze",
+        "units": 9,
+        "price": 90.53
+    },
+    {
+        "type": "Silver",
+        "units": 4,
+        "price": 106.03
+    },
+    {
+        "type": "Bronze",
+        "units": 8,
+        "price": 101.1
+    },
+    {
+        "type": "Gold",
+        "units": 2,
+        "price": 64.93
+    },
+    {
+        "type": "Silver",
+        "units": 3,
+        "price": 84.31
+    },
+    {
+        "type": "Silver",
+        "units": 10,
+        "price": 114.95
+    },
+    {
+        "type": "Bronze",
+        "units": 8,
+        "price": 115.44
+    },
+    {
+        "type": "Silver",
+        "units": 1,
+        "price": 148.24
+    },
+    {
+        "type": "Gold",
+        "units": 4,
+        "price": 145.79
+    },
+    {
+        "type": "Bronze",
+        "units": 5,
+        "price": 70.29
+    },
+    {
+        "type": "Gold",
+        "units": 9,
+        "price": 113.89
+    },
+    {
+        "type": "Bronze",
+        "units": 10,
+        "price": 79.75
+    },
+    {
+        "type": "Silver",
+        "units": 3,
+        "price": 110.57
+    },
+    {
+        "type": "Bronze",
+        "units": 7,
+        "price": 115.43
+    },
+    {
+        "type": "Silver",
+        "units": 3,
+        "price": 118.42
+    },
+    {
+        "type": "Gold",
+        "units": 9,
+        "price": 74.23
+    },
+    {
+        "type": "Silver",
+        "units": 2,
+        "price": 74.06
+    },
+    {
+        "type": "Bronze",
+        "units": 3,
+        "price": 142.11
+    },
+    {
+        "type": "Bronze",
+        "units": 2,
+        "price": 146.63
+    },
+    {
+        "type": "Gold",
+        "units": 10,
+        "price": 94.11
+    },
+    {
+        "type": "Gold",
+        "units": 4,
+        "price": 91.02
+    },
+    {
+        "type": "Bronze",
+        "units": 2,
+        "price": 143.66
+    },
+    {
+        "type": "Silver",
+        "units": 8,
+        "price": 64.38
+    },
+    {
+        "type": "Gold",
+        "units": 2,
+        "price": 66.17
+    },
+    {
+        "type": "Gold",
+        "units": 8,
+        "price": 116.06
+    },
+    {
+        "type": "Bronze",
+        "units": 1,
+        "price": 139.36
+    },
+    {
+        "type": "Gold",
+        "units": 3,
+        "price": 120.69
+    },
+    {
+        "type": "Silver",
+        "units": 1,
+        "price": 106.11
+    },
+    {
+        "type": "Gold",
+        "units": 4,
+        "price": 111.85
+    },
+    {
+        "type": "Gold",
+        "units": 4,
+        "price": 66.21
+    },
+    {
+        "type": "Gold",
+        "units": 7,
+        "price": 52.36
+    },
+    {
+        "type": "Silver",
+        "units": 9,
+        "price": 128.84
+    },
+    {
+        "type": "Bronze",
+        "units": 1,
+        "price": 51.13
+    },
+    {
+        "type": "Silver",
+        "units": 4,
+        "price": 93.48
+    },
+    {
+        "type": "Silver",
+        "units": 7,
+        "price": 64.05
+    },
+    {
+        "type": "Gold",
+        "units": 5,
+        "price": 69.03
+    },
+    {
+        "type": "Bronze",
+        "units": 6,
+        "price": 130
+    },
+    {
+        "type": "Silver",
+        "units": 8,
+        "price": 146.06
+    },
+    {
+        "type": "Silver",
+        "units": 10,
+        "price": 82.21
+    },
+    {
+        "type": "Bronze",
+        "units": 9,
+        "price": 147.72
+    },
+    {
+        "type": "Silver",
+        "units": 5,
+        "price": 80.74
+    },
+    {
+        "type": "Bronze",
+        "units": 2,
+        "price": 111.19
+    },
+    {
+        "type": "Bronze",
+        "units": 8,
+        "price": 67.03
+    },
+    {
+        "type": "Bronze",
+        "units": 7,
+        "price": 124.65
+    },
+    {
+        "type": "Silver",
+        "units": 6,
+        "price": 129.75
+    },
+    {
+        "type": "Silver",
+        "units": 10,
+        "price": 61.93
+    },
+    {
+        "type": "Silver",
+        "units": 2,
+        "price": 125.5
+    },
+    {
+        "type": "Silver",
+        "units": 4,
+        "price": 63.88
+    },
+    {
+        "type": "Silver",
+        "units": 7,
+        "price": 65.1
+    },
+    {
+        "type": "Silver",
+        "units": 6,
+        "price": 133.76
+    },
+    {
+        "type": "Gold",
+        "units": 9,
+        "price": 148.15
+    },
+    {
+        "type": "Silver",
+        "units": 9,
+        "price": 63.32
+    },
+    {
+        "type": "Bronze",
+        "units": 6,
+        "price": 119.11
+    },
+    {
+        "type": "Gold",
+        "units": 10,
+        "price": 116.25
+    },
+    {
+        "type": "Bronze",
+        "units": 9,
+        "price": 109.82
+    },
+    {
+        "type": "Bronze",
+        "units": 9,
+        "price": 116.43
+    },
+    {
+        "type": "Gold",
+        "units": 8,
+        "price": 124.85
+    },
+    {
+        "type": "Bronze",
+        "units": 3,
+        "price": 139.72
+    },
+    {
+        "type": "Bronze",
+        "units": 4,
+        "price": 135.37
+    },
+    {
+        "type": "Bronze",
+        "units": 3,
+        "price": 84.29
+    },
+    {
+        "type": "Silver",
+        "units": 7,
+        "price": 85.29
+    },
+    {
+        "type": "Silver",
+        "units": 9,
+        "price": 121.55
+    },
+    {
+        "type": "Bronze",
+        "units": 10,
+        "price": 105.67
+    },
+    {
+        "type": "Bronze",
+        "units": 7,
+        "price": 149.02
+    },
+    {
+        "type": "Gold",
+        "units": 4,
+        "price": 76.53
+    },
+    {
+        "type": "Silver",
+        "units": 1,
+        "price": 101.31
+    },
+    {
+        "type": "Silver",
+        "units": 8,
+        "price": 102.08
+    },
+    {
+        "type": "Gold",
+        "units": 2,
+        "price": 116.63
+    },
+    {
+        "type": "Gold",
+        "units": 4,
+        "price": 102.93
+    },
+    {
+        "type": "Gold",
+        "units": 3,
+        "price": 130.14
+    },
+    {
+        "type": "Silver",
+        "units": 5,
+        "price": 110.93
+    },
+    {
+        "type": "Bronze",
+        "units": 8,
+        "price": 125.18
+    },
+    {
+        "type": "Bronze",
+        "units": 2,
+        "price": 145.03
+    },
+    {
+        "type": "Gold",
+        "units": 4,
+        "price": 138.36
+    },
+    {
+        "type": "Silver",
+        "units": 9,
+        "price": 111.17
+    },
+    {
+        "type": "Gold",
+        "units": 4,
+        "price": 121.53
+    },
+    {
+        "type": "Bronze",
+        "units": 6,
+        "price": 120.25
+    },
+    {
+        "type": "Gold",
+        "units": 2,
+        "price": 118.7
+    },
+    {
+        "type": "Gold",
+        "units": 1,
+        "price": 90.29
+    },
+    {
+        "type": "Gold",
+        "units": 4,
+        "price": 74.15
+    },
+    {
+        "type": "Silver",
+        "units": 8,
+        "price": 124.06
+    },
+    {
+        "type": "Silver",
+        "units": 6,
+        "price": 131.28
+    },
+    {
+        "type": "Silver",
+        "units": 1,
+        "price": 90.38
+    },
+    {
+        "type": "Gold",
+        "units": 7,
+        "price": 67.04
+    },
+    {
+        "type": "Bronze",
+        "units": 1,
+        "price": 97.02
+    },
+    {
+        "type": "Gold",
+        "units": 4,
+        "price": 139.13
+    },
+    {
+        "type": "Silver",
+        "units": 1,
+        "price": 58.37
+    },
+    {
+        "type": "Gold",
+        "units": 8,
+        "price": 110.21
+    },
+    {
+        "type": "Gold",
+        "units": 1,
+        "price": 68.96
+    },
+    {
+        "type": "Bronze",
+        "units": 2,
+        "price": 134.67
+    },
+    {
+        "type": "Silver",
+        "units": 9,
+        "price": 70.68
+    },
+    {
+        "type": "Silver",
+        "units": 6,
+        "price": 109.91
+    },
+    {
+        "type": "Bronze",
+        "units": 6,
+        "price": 107.1
+    },
+    {
+        "type": "Silver",
+        "units": 10,
+        "price": 118.61
+    },
+    {
+        "type": "Gold",
+        "units": 1,
+        "price": 92.42
+    },
+    {
+        "type": "Silver",
+        "units": 1,
+        "price": 101.49
+    },
+    {
+        "type": "Silver",
+        "units": 2,
+        "price": 130.02
+    },
+    {
+        "type": "Silver",
+        "units": 7,
+        "price": 145.31
+    },
+    {
+        "type": "Bronze",
+        "units": 1,
+        "price": 141.68
+    },
+    {
+        "type": "Silver",
+        "units": 8,
+        "price": 110.15
+    },
+    {
+        "type": "Silver",
+        "units": 8,
+        "price": 107.09
+    },
+    {
+        "type": "Gold",
+        "units": 10,
+        "price": 87.07
+    },
+    {
+        "type": "Silver",
+        "units": 6,
+        "price": 145.53
+    },
+    {
+        "type": "Gold",
+        "units": 6,
+        "price": 104.82
+    },
+    {
+        "type": "Bronze",
+        "units": 7,
+        "price": 88.88
+    },
+    {
+        "type": "Bronze",
+        "units": 8,
+        "price": 117.34
+    },
+    {
+        "type": "Bronze",
+        "units": 3,
+        "price": 119.79
+    },
+    {
+        "type": "Bronze",
+        "units": 2,
+        "price": 138.16
+    },
+    {
+        "type": "Gold",
+        "units": 9,
+        "price": 106.4
+    },
+    {
+        "type": "Bronze",
+        "units": 5,
+        "price": 120.11
+    },
+    {
+        "type": "Gold",
+        "units": 5,
+        "price": 71.17
+    },
+    {
+        "type": "Silver",
+        "units": 1,
+        "price": 83.24
+    },
+    {
+        "type": "Bronze",
+        "units": 3,
+        "price": 80.34
+    },
+    {
+        "type": "Gold",
+        "units": 4,
+        "price": 76.08
+    },
+    {
+        "type": "Bronze",
+        "units": 2,
+        "price": 144.68
+    },
+    {
+        "type": "Bronze",
+        "units": 10,
+        "price": 56.53
+    },
+    {
+        "type": "Gold",
+        "units": 6,
+        "price": 82.55
+    },
+    {
+        "type": "Bronze",
+        "units": 6,
+        "price": 58.32
+    },
+    {
+        "type": "Silver",
+        "units": 5,
+        "price": 93.36
+    },
+    {
+        "type": "Bronze",
+        "units": 9,
+        "price": 95.46
+    },
+    {
+        "type": "Bronze",
+        "units": 4,
+        "price": 51.88
+    },
+    {
+        "type": "Silver",
+        "units": 9,
+        "price": 60.42
+    },
+    {
+        "type": "Bronze",
+        "units": 1,
+        "price": 107.3
+    },
+    {
+        "type": "Gold",
+        "units": 7,
+        "price": 68.98
+    },
+    {
+        "type": "Silver",
+        "units": 3,
+        "price": 88.67
+    },
+    {
+        "type": "Silver",
+        "units": 10,
+        "price": 103.23
+    },
+    {
+        "type": "Bronze",
+        "units": 3,
+        "price": 105.26
+    },
+    {
+        "type": "Silver",
+        "units": 2,
+        "price": 83.35
+    },
+    {
+        "type": "Bronze",
+        "units": 6,
+        "price": 124.68
+    },
+    {
+        "type": "Gold",
+        "units": 7,
+        "price": 81.71
+    },
+    {
+        "type": "Silver",
+        "units": 2,
+        "price": 142.69
+    },
+    {
+        "type": "Silver",
+        "units": 10,
+        "price": 50.49
+    },
+    {
+        "type": "Silver",
+        "units": 3,
+        "price": 139.8
+    },
+    {
+        "type": "Gold",
+        "units": 2,
+        "price": 106.21
+    },
+    {
+        "type": "Silver",
+        "units": 4,
+        "price": 145.12
+    },
+    {
+        "type": "Bronze",
+        "units": 6,
+        "price": 84.1
+    },
+    {
+        "type": "Silver",
+        "units": 3,
+        "price": 125.41
+    },
+    {
+        "type": "Silver",
+        "units": 1,
+        "price": 75.61
+    },
+    {
+        "type": "Silver",
+        "units": 4,
+        "price": 61.81
+    },
+    {
+        "type": "Silver",
+        "units": 7,
+        "price": 53.64
+    },
+    {
+        "type": "Silver",
+        "units": 3,
+        "price": 145.17
+    },
+    {
+        "type": "Silver",
+        "units": 2,
+        "price": 90.27
+    },
+    {
+        "type": "Gold",
+        "units": 1,
+        "price": 98.6
+    },
+    {
+        "type": "Bronze",
+        "units": 6,
+        "price": 61.29
+    },
+    {
+        "type": "Gold",
+        "units": 2,
+        "price": 68.07
+    },
+    {
+        "type": "Bronze",
+        "units": 6,
+        "price": 108.04
+    },
+    {
+        "type": "Gold",
+        "units": 1,
+        "price": 125.96
+    },
+    {
+        "type": "Gold",
+        "units": 1,
+        "price": 78.19
+    },
+    {
+        "type": "Bronze",
+        "units": 7,
+        "price": 131.58
+    },
+    {
+        "type": "Bronze",
+        "units": 9,
+        "price": 99.14
+    },
+    {
+        "type": "Bronze",
+        "units": 9,
+        "price": 131.7
+    },
+    {
+        "type": "Gold",
+        "units": 10,
+        "price": 129.54
+    },
+    {
+        "type": "Silver",
+        "units": 2,
+        "price": 148.11
+    },
+    {
+        "type": "Silver",
+        "units": 4,
+        "price": 78.18
+    },
+    {
+        "type": "Gold",
+        "units": 1,
+        "price": 139.58
+    },
+    {
+        "type": "Gold",
+        "units": 8,
+        "price": 146.33
+    },
+    {
+        "type": "Silver",
+        "units": 3,
+        "price": 146.6
+    },
+    {
+        "type": "Silver",
+        "units": 2,
+        "price": 54.62
+    },
+    {
+        "type": "Gold",
+        "units": 3,
+        "price": 55.81
+    },
+    {
+        "type": "Gold",
+        "units": 2,
+        "price": 135.53
+    },
+    {
+        "type": "Silver",
+        "units": 5,
+        "price": 85.62
+    },
+    {
+        "type": "Bronze",
+        "units": 1,
+        "price": 143.78
+    },
+    {
+        "type": "Bronze",
+        "units": 3,
+        "price": 91.06
+    },
+    {
+        "type": "Silver",
+        "units": 7,
+        "price": 139.02
+    },
+    {
+        "type": "Silver",
+        "units": 9,
+        "price": 144.01
+    },
+    {
+        "type": "Gold",
+        "units": 4,
+        "price": 131.67
+    },
+    {
+        "type": "Bronze",
+        "units": 3,
+        "price": 78.04
+    },
+    {
+        "type": "Gold",
+        "units": 5,
+        "price": 95.74
+    },
+    {
+        "type": "Bronze",
+        "units": 4,
+        "price": 108.21
+    },
+    {
+        "type": "Bronze",
+        "units": 5,
+        "price": 149.69
+    },
+    {
+        "type": "Bronze",
+        "units": 1,
+        "price": 103.2
+    },
+    {
+        "type": "Silver",
+        "units": 9,
+        "price": 129.58
+    },
+    {
+        "type": "Silver",
+        "units": 6,
+        "price": 121.59
+    },
+    {
+        "type": "Silver",
+        "units": 2,
+        "price": 102.04
+    },
+    {
+        "type": "Silver",
+        "units": 5,
+        "price": 117.44
+    },
+    {
+        "type": "Gold",
+        "units": 7,
+        "price": 56.84
+    },
+    {
+        "type": "Silver",
+        "units": 4,
+        "price": 111.09
+    },
+    {
+        "type": "Gold",
+        "units": 1,
+        "price": 131.88
+    },
+    {
+        "type": "Gold",
+        "units": 5,
+        "price": 85.94
+    },
+    {
+        "type": "Gold",
+        "units": 6,
+        "price": 72.48
+    },
+    {
+        "type": "Gold",
+        "units": 2,
+        "price": 123.33
+    },
+    {
+        "type": "Silver",
+        "units": 7,
+        "price": 146.24
+    },
+    {
+        "type": "Gold",
+        "units": 6,
+        "price": 69.61
+    },
+    {
+        "type": "Gold",
+        "units": 2,
+        "price": 103.83
+    },
+    {
+        "type": "Bronze",
+        "units": 1,
+        "price": 67.14
+    },
+    {
+        "type": "Gold",
+        "units": 4,
+        "price": 146.09
+    },
+    {
+        "type": "Gold",
+        "units": 4,
+        "price": 111.93
+    },
+    {
+        "type": "Silver",
+        "units": 8,
+        "price": 84.21
+    },
+    {
+        "type": "Bronze",
+        "units": 4,
+        "price": 147.36
+    },
+    {
+        "type": "Silver",
+        "units": 7,
+        "price": 105.65
+    },
+    {
+        "type": "Gold",
+        "units": 7,
+        "price": 67.9
+    },
+    {
+        "type": "Bronze",
+        "units": 6,
+        "price": 110.86
+    },
+    {
+        "type": "Silver",
+        "units": 10,
+        "price": 58.41
+    },
+    {
+        "type": "Bronze",
+        "units": 6,
+        "price": 116.01
+    },
+    {
+        "type": "Bronze",
+        "units": 4,
+        "price": 74.12
+    },
+    {
+        "type": "Bronze",
+        "units": 3,
+        "price": 122.45
+    },
+    {
+        "type": "Gold",
+        "units": 8,
+        "price": 93.91
+    },
+    {
+        "type": "Bronze",
+        "units": 10,
+        "price": 77.14
+    },
+    {
+        "type": "Gold",
+        "units": 9,
+        "price": 126
+    },
+    {
+        "type": "Gold",
+        "units": 2,
+        "price": 128.16
+    },
+    {
+        "type": "Silver",
+        "units": 4,
+        "price": 124.02
+    },
+    {
+        "type": "Silver",
+        "units": 7,
+        "price": 98.4
+    },
+    {
+        "type": "Bronze",
+        "units": 5,
+        "price": 53.67
+    },
+    {
+        "type": "Silver",
+        "units": 9,
+        "price": 81.17
+    },
+    {
+        "type": "Bronze",
+        "units": 4,
+        "price": 79.16
+    },
+    {
+        "type": "Silver",
+        "units": 10,
+        "price": 138.33
+    },
+    {
+        "type": "Silver",
+        "units": 8,
+        "price": 131.97
+    },
+    {
+        "type": "Silver",
+        "units": 1,
+        "price": 105.59
+    },
+    {
+        "type": "Silver",
+        "units": 5,
+        "price": 97.75
+    },
+    {
+        "type": "Gold",
+        "units": 2,
+        "price": 85.57
+    },
+    {
+        "type": "Bronze",
+        "units": 3,
+        "price": 113.17
+    },
+    {
+        "type": "Gold",
+        "units": 7,
+        "price": 61.05
+    },
+    {
+        "type": "Bronze",
+        "units": 10,
+        "price": 58.22
+    },
+    {
+        "type": "Bronze",
+        "units": 4,
+        "price": 96.21
+    },
+    {
+        "type": "Silver",
+        "units": 4,
+        "price": 58.37
+    },
+    {
+        "type": "Silver",
+        "units": 3,
+        "price": 127.61
+    },
+    {
+        "type": "Silver",
+        "units": 1,
+        "price": 94.63
+    },
+    {
+        "type": "Gold",
+        "units": 4,
+        "price": 61.29
+    },
+    {
+        "type": "Bronze",
+        "units": 4,
+        "price": 105.4
+    },
+    {
+        "type": "Gold",
+        "units": 10,
+        "price": 90.75
+    },
+    {
+        "type": "Silver",
+        "units": 5,
+        "price": 125.06
+    },
+    {
+        "type": "Gold",
+        "units": 7,
+        "price": 124.32
+    },
+    {
+        "type": "Gold",
+        "units": 5,
+        "price": 90.72
+    },
+    {
+        "type": "Silver",
+        "units": 5,
+        "price": 84.35
+    },
+    {
+        "type": "Silver",
+        "units": 8,
+        "price": 104.72
+    },
+    {
+        "type": "Silver",
+        "units": 7,
+        "price": 78.52
+    },
+    {
+        "type": "Gold",
+        "units": 6,
+        "price": 106.31
+    },
+    {
+        "type": "Silver",
+        "units": 3,
+        "price": 105.3
+    },
+    {
+        "type": "Bronze",
+        "units": 5,
+        "price": 130.33
+    },
+    {
+        "type": "Gold",
+        "units": 2,
+        "price": 109.91
+    },
+    {
+        "type": "Silver",
+        "units": 3,
+        "price": 96.48
+    },
+    {
+        "type": "Silver",
+        "units": 9,
+        "price": 142.58
+    },
+    {
+        "type": "Gold",
+        "units": 9,
+        "price": 89.35
+    },
+    {
+        "type": "Gold",
+        "units": 3,
+        "price": 93.2
+    },
+    {
+        "type": "Gold",
+        "units": 5,
+        "price": 126.03
+    },
+    {
+        "type": "Gold",
+        "units": 8,
+        "price": 63.9
+    },
+    {
+        "type": "Silver",
+        "units": 6,
+        "price": 52.46
+    },
+    {
+        "type": "Silver",
+        "units": 3,
+        "price": 137.21
+    },
+    {
+        "type": "Gold",
+        "units": 8,
+        "price": 123.91
+    },
+    {
+        "type": "Bronze",
+        "units": 2,
+        "price": 96.07
+    },
+    {
+        "type": "Silver",
+        "units": 4,
+        "price": 130.28
+    },
+    {
+        "type": "Gold",
+        "units": 6,
+        "price": 69.33
+    },
+    {
+        "type": "Silver",
+        "units": 3,
+        "price": 58.53
+    },
+    {
+        "type": "Gold",
+        "units": 8,
+        "price": 145.53
+    },
+    {
+        "type": "Silver",
+        "units": 6,
+        "price": 104.57
+    },
+    {
+        "type": "Bronze",
+        "units": 1,
+        "price": 79.55
+    },
+    {
+        "type": "Silver",
+        "units": 7,
+        "price": 148.29
+    },
+    {
+        "type": "Gold",
+        "units": 5,
+        "price": 120.31
+    },
+    {
+        "type": "Bronze",
+        "units": 3,
+        "price": 126.83
+    },
+    {
+        "type": "Bronze",
+        "units": 7,
+        "price": 136.25
+    },
+    {
+        "type": "Gold",
+        "units": 7,
+        "price": 104.85
+    },
+    {
+        "type": "Gold",
+        "units": 2,
+        "price": 97
+    },
+    {
+        "type": "Gold",
+        "units": 9,
+        "price": 141.6
+    },
+    {
+        "type": "Bronze",
+        "units": 7,
+        "price": 109.99
+    },
+    {
+        "type": "Gold",
+        "units": 7,
+        "price": 123.74
+    },
+    {
+        "type": "Bronze",
+        "units": 9,
+        "price": 94.28
+    },
+    {
+        "type": "Gold",
+        "units": 2,
+        "price": 107.36
+    },
+    {
+        "type": "Bronze",
+        "units": 2,
+        "price": 91.77
+    },
+    {
+        "type": "Gold",
+        "units": 10,
+        "price": 116.52
+    },
+    {
+        "type": "Gold",
+        "units": 1,
+        "price": 112.61
+    },
+    {
+        "type": "Bronze",
+        "units": 5,
+        "price": 81.83
+    },
+    {
+        "type": "Silver",
+        "units": 7,
+        "price": 77.3
+    },
+    {
+        "type": "Gold",
+        "units": 4,
+        "price": 145.32
+    },
+    {
+        "type": "Silver",
+        "units": 5,
+        "price": 142.76
+    },
+    {
+        "type": "Bronze",
+        "units": 7,
+        "price": 129.35
+    },
+    {
+        "type": "Silver",
+        "units": 1,
+        "price": 129.42
+    },
+    {
+        "type": "Silver",
+        "units": 2,
+        "price": 101.69
+    },
+    {
+        "type": "Bronze",
+        "units": 10,
+        "price": 104.83
+    },
+    {
+        "type": "Gold",
+        "units": 1,
+        "price": 139.33
+    },
+    {
+        "type": "Bronze",
+        "units": 1,
+        "price": 94.63
+    },
+    {
+        "type": "Silver",
+        "units": 9,
+        "price": 75.62
+    },
+    {
+        "type": "Gold",
+        "units": 9,
+        "price": 105.1
+    },
+    {
+        "type": "Gold",
+        "units": 8,
+        "price": 70.33
+    },
+    {
+        "type": "Bronze",
+        "units": 2,
+        "price": 92.07
+    },
+    {
+        "type": "Gold",
+        "units": 1,
+        "price": 121.11
+    },
+    {
+        "type": "Silver",
+        "units": 7,
+        "price": 82.25
+    },
+    {
+        "type": "Silver",
+        "units": 6,
+        "price": 72.37
+    },
+    {
+        "type": "Gold",
+        "units": 9,
+        "price": 143.03
+    },
+    {
+        "type": "Bronze",
+        "units": 5,
+        "price": 113.48
+    },
+    {
+        "type": "Silver",
+        "units": 2,
+        "price": 64.93
+    },
+    {
+        "type": "Bronze",
+        "units": 3,
+        "price": 144.3
+    },
+    {
+        "type": "Bronze",
+        "units": 8,
+        "price": 91.21
+    },
+    {
+        "type": "Gold",
+        "units": 5,
+        "price": 68.22
+    },
+    {
+        "type": "Gold",
+        "units": 1,
+        "price": 116.48
+    },
+    {
+        "type": "Silver",
+        "units": 3,
+        "price": 120.42
+    },
+    {
+        "type": "Silver",
+        "units": 8,
+        "price": 71.97
+    },
+    {
+        "type": "Silver",
+        "units": 1,
+        "price": 76.86
+    },
+    {
+        "type": "Gold",
+        "units": 3,
+        "price": 56.82
+    },
+    {
+        "type": "Silver",
+        "units": 2,
+        "price": 89.15
+    },
+    {
+        "type": "Bronze",
+        "units": 9,
+        "price": 144.22
+    },
+    {
+        "type": "Bronze",
+        "units": 3,
+        "price": 125.5
+    },
+    {
+        "type": "Bronze",
+        "units": 6,
+        "price": 110.05
+    },
+    {
+        "type": "Silver",
+        "units": 8,
+        "price": 53.1
+    },
+    {
+        "type": "Gold",
+        "units": 1,
+        "price": 108.33
+    },
+    {
+        "type": "Silver",
+        "units": 9,
+        "price": 78.97
+    },
+    {
+        "type": "Silver",
+        "units": 3,
+        "price": 145.15
+    },
+    {
+        "type": "Bronze",
+        "units": 1,
+        "price": 80.63
+    },
+    {
+        "type": "Gold",
+        "units": 6,
+        "price": 60.9
+    },
+    {
+        "type": "Gold",
+        "units": 6,
+        "price": 84.42
+    },
+    {
+        "type": "Silver",
+        "units": 6,
+        "price": 114.2
+    },
+    {
+        "type": "Gold",
+        "units": 5,
+        "price": 91.57
+    },
+    {
+        "type": "Gold",
+        "units": 4,
+        "price": 140.76
+    },
+    {
+        "type": "Silver",
+        "units": 1,
+        "price": 97.03
+    },
+    {
+        "type": "Silver",
+        "units": 4,
+        "price": 123.89
+    },
+    {
+        "type": "Bronze",
+        "units": 4,
+        "price": 67.84
+    },
+    {
+        "type": "Silver",
+        "units": 10,
+        "price": 147.88
+    },
+    {
+        "type": "Silver",
+        "units": 7,
+        "price": 112.71
+    },
+    {
+        "type": "Gold",
+        "units": 4,
+        "price": 93.64
+    },
+    {
+        "type": "Bronze",
+        "units": 9,
+        "price": 96.26
+    },
+    {
+        "type": "Bronze",
+        "units": 3,
+        "price": 95.88
+    },
+    {
+        "type": "Bronze",
+        "units": 5,
+        "price": 56.24
+    },
+    {
+        "type": "Gold",
+        "units": 7,
+        "price": 64.63
+    },
+    {
+        "type": "Bronze",
+        "units": 4,
+        "price": 114.35
+    },
+    {
+        "type": "Bronze",
+        "units": 8,
+        "price": 87.48
+    },
+    {
+        "type": "Gold",
+        "units": 4,
+        "price": 62.48
+    },
+    {
+        "type": "Silver",
+        "units": 6,
+        "price": 73.48
+    },
+    {
+        "type": "Silver",
+        "units": 5,
+        "price": 108.67
+    },
+    {
+        "type": "Gold",
+        "units": 1,
+        "price": 74.11
+    },
+    {
+        "type": "Gold",
+        "units": 2,
+        "price": 98.12
+    },
+    {
+        "type": "Bronze",
+        "units": 7,
+        "price": 65.16
+    },
+    {
+        "type": "Silver",
+        "units": 1,
+        "price": 126.51
+    },
+    {
+        "type": "Gold",
+        "units": 4,
+        "price": 146.03
+    },
+    {
+        "type": "Gold",
+        "units": 8,
+        "price": 110.02
+    },
+    {
+        "type": "Gold",
+        "units": 8,
+        "price": 94.26
+    },
+    {
+        "type": "Gold",
+        "units": 3,
+        "price": 113.92
+    },
+    {
+        "type": "Bronze",
+        "units": 5,
+        "price": 144.09
+    },
+    {
+        "type": "Silver",
+        "units": 9,
+        "price": 124.21
+    },
+    {
+        "type": "Bronze",
+        "units": 2,
+        "price": 67.76
+    },
+    {
+        "type": "Bronze",
+        "units": 7,
+        "price": 127.93
+    },
+    {
+        "type": "Bronze",
+        "units": 9,
+        "price": 51.12
+    },
+    {
+        "type": "Silver",
+        "units": 9,
+        "price": 51.77
+    },
+    {
+        "type": "Bronze",
+        "units": 4,
+        "price": 130.31
+    },
+    {
+        "type": "Silver",
+        "units": 6,
+        "price": 89.27
+    },
+    {
+        "type": "Gold",
+        "units": 4,
+        "price": 123.07
+    },
+    {
+        "type": "Bronze",
+        "units": 10,
+        "price": 102.33
+    },
+    {
+        "type": "Silver",
+        "units": 1,
+        "price": 96.13
+    },
+    {
+        "type": "Gold",
+        "units": 10,
+        "price": 67.13
+    },
+    {
+        "type": "Bronze",
+        "units": 7,
+        "price": 93.34
+    },
+    {
+        "type": "Bronze",
+        "units": 9,
+        "price": 86.13
+    },
+    {
+        "type": "Bronze",
+        "units": 10,
+        "price": 91.49
+    },
+    {
+        "type": "Bronze",
+        "units": 7,
+        "price": 82.83
+    },
+    {
+        "type": "Silver",
+        "units": 6,
+        "price": 98.5
+    },
+    {
+        "type": "Gold",
+        "units": 3,
+        "price": 69.76
+    },
+    {
+        "type": "Bronze",
+        "units": 4,
+        "price": 89.17
+    },
+    {
+        "type": "Silver",
+        "units": 6,
+        "price": 90.08
+    },
+    {
+        "type": "Silver",
+        "units": 6,
+        "price": 88.69
+    },
+    {
+        "type": "Silver",
+        "units": 8,
+        "price": 84.37
+    },
+    {
+        "type": "Silver",
+        "units": 10,
+        "price": 133.94
+    },
+    {
+        "type": "Silver",
+        "units": 7,
+        "price": 119.85
+    },
+    {
+        "type": "Bronze",
+        "units": 4,
+        "price": 62.81
+    },
+    {
+        "type": "Silver",
+        "units": 1,
+        "price": 81.69
+    },
+    {
+        "type": "Gold",
+        "units": 1,
+        "price": 81.49
+    },
+    {
+        "type": "Silver",
+        "units": 2,
+        "price": 88.56
+    },
+    {
+        "type": "Bronze",
+        "units": 3,
+        "price": 73.49
+    },
+    {
+        "type": "Silver",
+        "units": 3,
+        "price": 143.76
+    },
+    {
+        "type": "Bronze",
+        "units": 1,
+        "price": 120.7
+    },
+    {
+        "type": "Silver",
+        "units": 7,
+        "price": 142.35
+    },
+    {
+        "type": "Silver",
+        "units": 6,
+        "price": 113.58
+    },
+    {
+        "type": "Gold",
+        "units": 4,
+        "price": 146.06
+    },
+    {
+        "type": "Bronze",
+        "units": 7,
+        "price": 82.38
+    },
+    {
+        "type": "Bronze",
+        "units": 8,
+        "price": 97.84
+    },
+    {
+        "type": "Gold",
+        "units": 3,
+        "price": 58.76
+    },
+    {
+        "type": "Gold",
+        "units": 8,
+        "price": 136.95
+    },
+    {
+        "type": "Silver",
+        "units": 7,
+        "price": 139.53
+    },
+    {
+        "type": "Silver",
+        "units": 6,
+        "price": 137.99
+    },
+    {
+        "type": "Bronze",
+        "units": 2,
+        "price": 75.04
+    },
+    {
+        "type": "Silver",
+        "units": 3,
+        "price": 141.7
+    },
+    {
+        "type": "Silver",
+        "units": 3,
+        "price": 106.05
+    },
+    {
+        "type": "Gold",
+        "units": 4,
+        "price": 79.85
+    },
+    {
+        "type": "Bronze",
+        "units": 10,
+        "price": 116.52
+    },
+    {
+        "type": "Gold",
+        "units": 9,
+        "price": 52.88
+    },
+    {
+        "type": "Bronze",
+        "units": 5,
+        "price": 134.04
+    },
+    {
+        "type": "Silver",
+        "units": 4,
+        "price": 94.37
+    },
+    {
+        "type": "Bronze",
+        "units": 4,
+        "price": 64.95
+    },
+    {
+        "type": "Bronze",
+        "units": 1,
+        "price": 122.8
+    },
+    {
+        "type": "Gold",
+        "units": 8,
+        "price": 147.89
+    },
+    {
+        "type": "Bronze",
+        "units": 7,
+        "price": 65.54
+    },
+    {
+        "type": "Silver",
+        "units": 2,
+        "price": 55.87
+    },
+    {
+        "type": "Gold",
+        "units": 1,
+        "price": 137.29
+    },
+    {
+        "type": "Bronze",
+        "units": 3,
+        "price": 79.48
+    },
+    {
+        "type": "Gold",
+        "units": 9,
+        "price": 131.32
+    },
+    {
+        "type": "Silver",
+        "units": 8,
+        "price": 67.87
+    },
+    {
+        "type": "Gold",
+        "units": 1,
+        "price": 97.46
+    },
+    {
+        "type": "Gold",
+        "units": 8,
+        "price": 87.38
+    },
+    {
+        "type": "Gold",
+        "units": 9,
+        "price": 97.22
+    },
+    {
+        "type": "Bronze",
+        "units": 1,
+        "price": 65.62
+    },
+    {
+        "type": "Bronze",
+        "units": 10,
+        "price": 122.01
+    },
+    {
+        "type": "Gold",
+        "units": 4,
+        "price": 56.91
+    },
+    {
+        "type": "Gold",
+        "units": 3,
+        "price": 79.51
+    },
+    {
+        "type": "Silver",
+        "units": 1,
+        "price": 89.07
+    },
+    {
+        "type": "Silver",
+        "units": 3,
+        "price": 114.66
+    },
+    {
+        "type": "Silver",
+        "units": 7,
+        "price": 131.88
+    },
+    {
+        "type": "Silver",
+        "units": 8,
+        "price": 84.02
+    },
+    {
+        "type": "Silver",
+        "units": 9,
+        "price": 138.31
+    },
+    {
+        "type": "Bronze",
+        "units": 1,
+        "price": 77.36
+    },
+    {
+        "type": "Gold",
+        "units": 1,
+        "price": 52.2
+    },
+    {
+        "type": "Gold",
+        "units": 7,
+        "price": 81.18
+    },
+    {
+        "type": "Silver",
+        "units": 9,
+        "price": 140.82
+    },
+    {
+        "type": "Silver",
+        "units": 2,
+        "price": 82.06
+    },
+    {
+        "type": "Silver",
+        "units": 10,
+        "price": 83.16
+    },
+    {
+        "type": "Bronze",
+        "units": 3,
+        "price": 86.39
+    },
+    {
+        "type": "Gold",
+        "units": 7,
+        "price": 101.71
+    },
+    {
+        "type": "Gold",
+        "units": 7,
+        "price": 102.94
+    },
+    {
+        "type": "Gold",
+        "units": 6,
+        "price": 92.25
+    },
+    {
+        "type": "Bronze",
+        "units": 3,
+        "price": 132.75
+    },
+    {
+        "type": "Bronze",
+        "units": 6,
+        "price": 99.52
+    },
+    {
+        "type": "Gold",
+        "units": 1,
+        "price": 82.28
+    },
+    {
+        "type": "Bronze",
+        "units": 4,
+        "price": 140.01
+    },
+    {
+        "type": "Gold",
+        "units": 3,
+        "price": 74.01
+    },
+    {
+        "type": "Bronze",
+        "units": 2,
+        "price": 142.12
+    },
+    {
+        "type": "Bronze",
+        "units": 8,
+        "price": 99.69
+    },
+    {
+        "type": "Silver",
+        "units": 4,
+        "price": 66.61
+    },
+    {
+        "type": "Silver",
+        "units": 1,
+        "price": 136.39
+    },
+    {
+        "type": "Gold",
+        "units": 6,
+        "price": 78.74
+    },
+    {
+        "type": "Bronze",
+        "units": 10,
+        "price": 108.11
+    },
+    {
+        "type": "Silver",
+        "units": 4,
+        "price": 146.26
+    },
+    {
+        "type": "Silver",
+        "units": 9,
+        "price": 89.92
+    },
+    {
+        "type": "Silver",
+        "units": 8,
+        "price": 126.81
+    },
+    {
+        "type": "Bronze",
+        "units": 10,
+        "price": 66.54
+    },
+    {
+        "type": "Gold",
+        "units": 9,
+        "price": 83.73
+    },
+    {
+        "type": "Silver",
+        "units": 4,
+        "price": 70.54
+    },
+    {
+        "type": "Silver",
+        "units": 5,
+        "price": 54.23
+    },
+    {
+        "type": "Bronze",
+        "units": 6,
+        "price": 73.18
+    },
+    {
+        "type": "Silver",
+        "units": 4,
+        "price": 99.6
+    },
+    {
+        "type": "Gold",
+        "units": 5,
+        "price": 56.39
+    },
+    {
+        "type": "Bronze",
+        "units": 9,
+        "price": 142.87
+    },
+    {
+        "type": "Silver",
+        "units": 5,
+        "price": 134.74
+    },
+    {
+        "type": "Gold",
+        "units": 2,
+        "price": 100.44
+    },
+    {
+        "type": "Silver",
+        "units": 7,
+        "price": 126.19
+    },
+    {
+        "type": "Silver",
+        "units": 8,
+        "price": 53.43
+    },
+    {
+        "type": "Silver",
+        "units": 1,
+        "price": 87.12
+    },
+    {
+        "type": "Bronze",
+        "units": 6,
+        "price": 109.2
+    },
+    {
+        "type": "Gold",
+        "units": 1,
+        "price": 133.46
+    },
+    {
+        "type": "Gold",
+        "units": 3,
+        "price": 134.89
+    },
+    {
+        "type": "Gold",
+        "units": 4,
+        "price": 59.29
+    },
+    {
+        "type": "Bronze",
+        "units": 8,
+        "price": 71.91
+    },
+    {
+        "type": "Bronze",
+        "units": 1,
+        "price": 111.33
+    },
+    {
+        "type": "Bronze",
+        "units": 7,
+        "price": 138.05
+    },
+    {
+        "type": "Bronze",
+        "units": 5,
+        "price": 148.11
+    },
+    {
+        "type": "Gold",
+        "units": 3,
+        "price": 68.77
+    },
+    {
+        "type": "Gold",
+        "units": 7,
+        "price": 125.89
+    },
+    {
+        "type": "Silver",
+        "units": 3,
+        "price": 93.89
+    },
+    {
+        "type": "Gold",
+        "units": 9,
+        "price": 110.69
+    },
+    {
+        "type": "Gold",
+        "units": 7,
+        "price": 139.46
+    },
+    {
+        "type": "Silver",
+        "units": 8,
+        "price": 113.46
+    },
+    {
+        "type": "Bronze",
+        "units": 6,
+        "price": 64.32
+    },
+    {
+        "type": "Bronze",
+        "units": 6,
+        "price": 119.15
+    },
+    {
+        "type": "Bronze",
+        "units": 2,
+        "price": 54.34
+    },
+    {
+        "type": "Gold",
+        "units": 8,
+        "price": 123.91
+    },
+    {
+        "type": "Silver",
+        "units": 3,
+        "price": 116.58
+    },
+    {
+        "type": "Bronze",
+        "units": 8,
+        "price": 90.5
+    },
+    {
+        "type": "Silver",
+        "units": 6,
+        "price": 111.98
+    },
+    {
+        "type": "Silver",
+        "units": 3,
+        "price": 111.73
+    },
+    {
+        "type": "Gold",
+        "units": 9,
+        "price": 83.12
+    },
+    {
+        "type": "Silver",
+        "units": 9,
+        "price": 98.16
+    },
+    {
+        "type": "Gold",
+        "units": 1,
+        "price": 112.74
+    },
+    {
+        "type": "Gold",
+        "units": 8,
+        "price": 68.33
+    },
+    {
+        "type": "Silver",
+        "units": 9,
+        "price": 135.32
+    },
+    {
+        "type": "Bronze",
+        "units": 7,
+        "price": 76.18
+    },
+    {
+        "type": "Gold",
+        "units": 3,
+        "price": 89.15
+    },
+    {
+        "type": "Bronze",
+        "units": 9,
+        "price": 100.15
+    },
+    {
+        "type": "Bronze",
+        "units": 2,
+        "price": 144.98
+    },
+    {
+        "type": "Silver",
+        "units": 5,
+        "price": 72.34
+    },
+    {
+        "type": "Bronze",
+        "units": 4,
+        "price": 67.6
+    },
+    {
+        "type": "Gold",
+        "units": 9,
+        "price": 113.26
+    },
+    {
+        "type": "Silver",
+        "units": 6,
+        "price": 63.98
+    },
+    {
+        "type": "Bronze",
+        "units": 10,
+        "price": 117.43
+    },
+    {
+        "type": "Silver",
+        "units": 10,
+        "price": 101.49
+    },
+    {
+        "type": "Bronze",
+        "units": 2,
+        "price": 125.03
+    },
+    {
+        "type": "Bronze",
+        "units": 9,
+        "price": 117.5
+    },
+    {
+        "type": "Bronze",
+        "units": 3,
+        "price": 53.67
+    },
+    {
+        "type": "Silver",
+        "units": 3,
+        "price": 95.65
+    },
+    {
+        "type": "Bronze",
+        "units": 4,
+        "price": 143.57
+    },
+    {
+        "type": "Bronze",
+        "units": 1,
+        "price": 99.89
+    },
+    {
+        "type": "Silver",
+        "units": 4,
+        "price": 143.61
+    },
+    {
+        "type": "Silver",
+        "units": 7,
+        "price": 51.55
+    },
+    {
+        "type": "Silver",
+        "units": 10,
+        "price": 135.09
+    },
+    {
+        "type": "Bronze",
+        "units": 5,
+        "price": 132.51
+    },
+    {
+        "type": "Bronze",
+        "units": 10,
+        "price": 76.64
+    },
+    {
+        "type": "Bronze",
+        "units": 5,
+        "price": 79.11
+    },
+    {
+        "type": "Gold",
+        "units": 3,
+        "price": 106.04
+    },
+    {
+        "type": "Gold",
+        "units": 7,
+        "price": 118.05
+    },
+    {
+        "type": "Gold",
+        "units": 10,
+        "price": 114.59
+    },
+    {
+        "type": "Gold",
+        "units": 5,
+        "price": 135.55
+    },
+    {
+        "type": "Bronze",
+        "units": 6,
+        "price": 117.28
+    },
+    {
+        "type": "Silver",
+        "units": 1,
+        "price": 87.04
+    },
+    {
+        "type": "Silver",
+        "units": 8,
+        "price": 102.1
+    },
+    {
+        "type": "Gold",
+        "units": 7,
+        "price": 77.37
+    },
+    {
+        "type": "Gold",
+        "units": 2,
+        "price": 115.6
+    },
+    {
+        "type": "Bronze",
+        "units": 10,
+        "price": 89.59
+    },
+    {
+        "type": "Bronze",
+        "units": 5,
+        "price": 91.89
+    },
+    {
+        "type": "Bronze",
+        "units": 9,
+        "price": 75.72
+    },
+    {
+        "type": "Bronze",
+        "units": 1,
+        "price": 112.89
+    },
+    {
+        "type": "Bronze",
+        "units": 5,
+        "price": 123.34
+    },
+    {
+        "type": "Bronze",
+        "units": 7,
+        "price": 52.53
+    },
+    {
+        "type": "Gold",
+        "units": 3,
+        "price": 143.26
+    },
+    {
+        "type": "Gold",
+        "units": 4,
+        "price": 112.17
+    },
+    {
+        "type": "Bronze",
+        "units": 6,
+        "price": 91.67
+    },
+    {
+        "type": "Gold",
+        "units": 2,
+        "price": 100.32
+    },
+    {
+        "type": "Silver",
+        "units": 4,
+        "price": 87.78
+    },
+    {
+        "type": "Silver",
+        "units": 8,
+        "price": 140.8
+    },
+    {
+        "type": "Gold",
+        "units": 8,
+        "price": 143.04
+    },
+    {
+        "type": "Bronze",
+        "units": 7,
+        "price": 82.2
+    },
+    {
+        "type": "Gold",
+        "units": 4,
+        "price": 94.62
+    },
+    {
+        "type": "Bronze",
+        "units": 9,
+        "price": 117.24
+    },
+    {
+        "type": "Silver",
+        "units": 7,
+        "price": 73.3
+    },
+    {
+        "type": "Silver",
+        "units": 9,
+        "price": 63.45
+    },
+    {
+        "type": "Gold",
+        "units": 3,
+        "price": 76.95
+    },
+    {
+        "type": "Silver",
+        "units": 8,
+        "price": 134.52
+    },
+    {
+        "type": "Bronze",
+        "units": 9,
+        "price": 113.74
+    },
+    {
+        "type": "Silver",
+        "units": 6,
+        "price": 123.89
+    },
+    {
+        "type": "Silver",
+        "units": 10,
+        "price": 113.76
+    },
+    {
+        "type": "Gold",
+        "units": 1,
+        "price": 114.54
+    },
+    {
+        "type": "Silver",
+        "units": 6,
+        "price": 66.74
+    },
+    {
+        "type": "Bronze",
+        "units": 1,
+        "price": 90.33
+    },
+    {
+        "type": "Silver",
+        "units": 2,
+        "price": 62.99
+    },
+    {
+        "type": "Gold",
+        "units": 7,
+        "price": 115.09
+    },
+    {
+        "type": "Gold",
+        "units": 8,
+        "price": 61.15
+    },
+    {
+        "type": "Gold",
+        "units": 5,
+        "price": 75.98
+    },
+    {
+        "type": "Silver",
+        "units": 6,
+        "price": 136.09
+    },
+    {
+        "type": "Silver",
+        "units": 1,
+        "price": 145.78
+    },
+    {
+        "type": "Gold",
+        "units": 9,
+        "price": 110.33
+    },
+    {
+        "type": "Silver",
+        "units": 8,
+        "price": 108.18
+    },
+    {
+        "type": "Bronze",
+        "units": 3,
+        "price": 64.59
+    },
+    {
+        "type": "Bronze",
+        "units": 1,
+        "price": 50.18
+    },
+    {
+        "type": "Gold",
+        "units": 3,
+        "price": 137.22
+    },
+    {
+        "type": "Bronze",
+        "units": 8,
+        "price": 115.65
+    },
+    {
+        "type": "Bronze",
+        "units": 9,
+        "price": 90.93
+    },
+    {
+        "type": "Silver",
+        "units": 4,
+        "price": 85.93
+    },
+    {
+        "type": "Gold",
+        "units": 10,
+        "price": 147.35
+    },
+    {
+        "type": "Bronze",
+        "units": 3,
+        "price": 113.24
+    },
+    {
+        "type": "Bronze",
+        "units": 1,
+        "price": 121.1
+    },
+    {
+        "type": "Silver",
+        "units": 8,
+        "price": 103.56
+    },
+    {
+        "type": "Silver",
+        "units": 9,
+        "price": 89.12
+    },
+    {
+        "type": "Gold",
+        "units": 10,
+        "price": 52.74
+    },
+    {
+        "type": "Bronze",
+        "units": 9,
+        "price": 115.36
+    },
+    {
+        "type": "Bronze",
+        "units": 1,
+        "price": 88.52
+    },
+    {
+        "type": "Bronze",
+        "units": 9,
+        "price": 135.1
+    },
+    {
+        "type": "Bronze",
+        "units": 6,
+        "price": 140.67
+    },
+    {
+        "type": "Bronze",
+        "units": 9,
+        "price": 95.56
+    },
+    {
+        "type": "Gold",
+        "units": 4,
+        "price": 91.46
+    },
+    {
+        "type": "Gold",
+        "units": 10,
+        "price": 113.52
+    },
+    {
+        "type": "Bronze",
+        "units": 7,
+        "price": 137.02
+    },
+    {
+        "type": "Gold",
+        "units": 8,
+        "price": 108.43
+    },
+    {
+        "type": "Gold",
+        "units": 10,
+        "price": 61.46
+    },
+    {
+        "type": "Gold",
+        "units": 2,
+        "price": 110.34
+    },
+    {
+        "type": "Gold",
+        "units": 5,
+        "price": 55.13
+    },
+    {
+        "type": "Gold",
+        "units": 7,
+        "price": 148.92
+    },
+    {
+        "type": "Gold",
+        "units": 7,
+        "price": 62.74
+    },
+    {
+        "type": "Gold",
+        "units": 10,
+        "price": 76.25
+    },
+    {
+        "type": "Gold",
+        "units": 5,
+        "price": 90.23
+    },
+    {
+        "type": "Bronze",
+        "units": 3,
+        "price": 136.58
+    },
+    {
+        "type": "Silver",
+        "units": 3,
+        "price": 84.13
+    },
+    {
+        "type": "Bronze",
+        "units": 10,
+        "price": 69.14
+    },
+    {
+        "type": "Bronze",
+        "units": 3,
+        "price": 146.18
+    },
+    {
+        "type": "Bronze",
+        "units": 10,
+        "price": 113.46
+    },
+    {
+        "type": "Gold",
+        "units": 9,
+        "price": 94.52
+    },
+    {
+        "type": "Gold",
+        "units": 4,
+        "price": 101.82
+    },
+    {
+        "type": "Gold",
+        "units": 8,
+        "price": 107.27
+    },
+    {
+        "type": "Bronze",
+        "units": 9,
+        "price": 130.13
+    },
+    {
+        "type": "Bronze",
+        "units": 10,
+        "price": 118.73
+    },
+    {
+        "type": "Gold",
+        "units": 10,
+        "price": 76.72
+    },
+    {
+        "type": "Bronze",
+        "units": 9,
+        "price": 130.49
+    },
+    {
+        "type": "Silver",
+        "units": 9,
+        "price": 65.15
+    },
+    {
+        "type": "Bronze",
+        "units": 4,
+        "price": 149.37
+    },
+    {
+        "type": "Gold",
+        "units": 7,
+        "price": 68.87
+    },
+    {
+        "type": "Silver",
+        "units": 4,
+        "price": 141.49
+    },
+    {
+        "type": "Bronze",
+        "units": 7,
+        "price": 111.69
+    },
+    {
+        "type": "Silver",
+        "units": 7,
+        "price": 69.78
+    },
+    {
+        "type": "Silver",
+        "units": 4,
+        "price": 97.97
+    },
+    {
+        "type": "Silver",
+        "units": 9,
+        "price": 70.58
+    },
+    {
+        "type": "Silver",
+        "units": 3,
+        "price": 135.81
+    },
+    {
+        "type": "Bronze",
+        "units": 2,
+        "price": 56.26
+    },
+    {
+        "type": "Gold",
+        "units": 5,
+        "price": 108.58
+    },
+    {
+        "type": "Gold",
+        "units": 3,
+        "price": 97.2
+    },
+    {
+        "type": "Silver",
+        "units": 7,
+        "price": 114.46
+    },
+    {
+        "type": "Bronze",
+        "units": 5,
+        "price": 135.1
+    },
+    {
+        "type": "Gold",
+        "units": 8,
+        "price": 107.24
+    },
+    {
+        "type": "Silver",
+        "units": 7,
+        "price": 102.15
+    },
+    {
+        "type": "Gold",
+        "units": 10,
+        "price": 75.21
+    },
+    {
+        "type": "Bronze",
+        "units": 9,
+        "price": 85
+    },
+    {
+        "type": "Bronze",
+        "units": 7,
+        "price": 149.82
+    },
+    {
+        "type": "Gold",
+        "units": 6,
+        "price": 102.36
+    },
+    {
+        "type": "Silver",
+        "units": 6,
+        "price": 84.83
+    },
+    {
+        "type": "Silver",
+        "units": 4,
+        "price": 139.26
+    },
+    {
+        "type": "Bronze",
+        "units": 8,
+        "price": 64.75
+    },
+    {
+        "type": "Bronze",
+        "units": 6,
+        "price": 125.57
+    },
+    {
+        "type": "Gold",
+        "units": 10,
+        "price": 57.63
+    },
+    {
+        "type": "Bronze",
+        "units": 9,
+        "price": 67.16
+    },
+    {
+        "type": "Gold",
+        "units": 6,
+        "price": 60.25
+    },
+    {
+        "type": "Silver",
+        "units": 9,
+        "price": 79.81
+    },
+    {
+        "type": "Gold",
+        "units": 3,
+        "price": 105.8
+    },
+    {
+        "type": "Gold",
+        "units": 3,
+        "price": 83.53
+    },
+    {
+        "type": "Gold",
+        "units": 2,
+        "price": 65.16
+    },
+    {
+        "type": "Bronze",
+        "units": 5,
+        "price": 138.9
+    },
+    {
+        "type": "Bronze",
+        "units": 2,
+        "price": 89.64
+    },
+    {
+        "type": "Bronze",
+        "units": 9,
+        "price": 91.77
+    },
+    {
+        "type": "Bronze",
+        "units": 4,
+        "price": 144.88
+    },
+    {
+        "type": "Bronze",
+        "units": 8,
+        "price": 85.44
+    },
+    {
+        "type": "Gold",
+        "units": 3,
+        "price": 107.44
+    },
+    {
+        "type": "Silver",
+        "units": 2,
+        "price": 147.8
+    },
+    {
+        "type": "Gold",
+        "units": 8,
+        "price": 58.95
+    },
+    {
+        "type": "Bronze",
+        "units": 6,
+        "price": 147.29
+    },
+    {
+        "type": "Silver",
+        "units": 4,
+        "price": 71.46
+    },
+    {
+        "type": "Bronze",
+        "units": 9,
+        "price": 133.89
+    },
+    {
+        "type": "Bronze",
+        "units": 8,
+        "price": 126.23
+    },
+    {
+        "type": "Silver",
+        "units": 9,
+        "price": 113.2
+    },
+    {
+        "type": "Bronze",
+        "units": 8,
+        "price": 106.05
+    },
+    {
+        "type": "Gold",
+        "units": 7,
+        "price": 67.98
+    },
+    {
+        "type": "Bronze",
+        "units": 4,
+        "price": 58.89
+    },
+    {
+        "type": "Bronze",
+        "units": 1,
+        "price": 78.05
+    },
+    {
+        "type": "Silver",
+        "units": 7,
+        "price": 67.21
+    },
+    {
+        "type": "Silver",
+        "units": 7,
+        "price": 146.2
+    },
+    {
+        "type": "Gold",
+        "units": 9,
+        "price": 105.34
+    },
+    {
+        "type": "Silver",
+        "units": 2,
+        "price": 75.22
+    },
+    {
+        "type": "Silver",
+        "units": 6,
+        "price": 141.82
+    },
+    {
+        "type": "Silver",
+        "units": 2,
+        "price": 57.42
+    },
+    {
+        "type": "Gold",
+        "units": 7,
+        "price": 147.5
+    },
+    {
+        "type": "Silver",
+        "units": 7,
+        "price": 51.59
+    },
+    {
+        "type": "Bronze",
+        "units": 4,
+        "price": 73.28
+    },
+    {
+        "type": "Bronze",
+        "units": 7,
+        "price": 97.5
+    },
+    {
+        "type": "Bronze",
+        "units": 3,
+        "price": 93.57
+    },
+    {
+        "type": "Gold",
+        "units": 3,
+        "price": 140.6
+    },
+    {
+        "type": "Bronze",
+        "units": 4,
+        "price": 91.16
+    },
+    {
+        "type": "Gold",
+        "units": 2,
+        "price": 113.2
+    },
+    {
+        "type": "Bronze",
+        "units": 4,
+        "price": 130.53
+    },
+    {
+        "type": "Gold",
+        "units": 2,
+        "price": 65.13
+    },
+    {
+        "type": "Bronze",
+        "units": 2,
+        "price": 144.15
+    },
+    {
+        "type": "Gold",
+        "units": 1,
+        "price": 115.14
+    },
+    {
+        "type": "Bronze",
+        "units": 5,
+        "price": 51.51
+    },
+    {
+        "type": "Bronze",
+        "units": 2,
+        "price": 105.09
+    },
+    {
+        "type": "Gold",
+        "units": 2,
+        "price": 99.65
+    },
+    {
+        "type": "Gold",
+        "units": 1,
+        "price": 99.06
+    },
+    {
+        "type": "Gold",
+        "units": 3,
+        "price": 136.9
+    },
+    {
+        "type": "Gold",
+        "units": 6,
+        "price": 106.15
+    },
+    {
+        "type": "Bronze",
+        "units": 10,
+        "price": 76.48
+    },
+    {
+        "type": "Gold",
+        "units": 3,
+        "price": 108.18
+    },
+    {
+        "type": "Silver",
+        "units": 4,
+        "price": 85.75
+    },
+    {
+        "type": "Silver",
+        "units": 4,
+        "price": 111.01
+    },
+    {
+        "type": "Silver",
+        "units": 2,
+        "price": 58.15
+    },
+    {
+        "type": "Bronze",
+        "units": 2,
+        "price": 127.86
+    },
+    {
+        "type": "Bronze",
+        "units": 8,
+        "price": 88.02
+    },
+    {
+        "type": "Silver",
+        "units": 1,
+        "price": 94.32
+    },
+    {
+        "type": "Silver",
+        "units": 8,
+        "price": 123.84
+    },
+    {
+        "type": "Gold",
+        "units": 9,
+        "price": 91.1
+    },
+    {
+        "type": "Gold",
+        "units": 3,
+        "price": 57.07
+    },
+    {
+        "type": "Bronze",
+        "units": 1,
+        "price": 142.08
+    },
+    {
+        "type": "Bronze",
+        "units": 7,
+        "price": 60.09
+    },
+    {
+        "type": "Silver",
+        "units": 6,
+        "price": 122.74
+    },
+    {
+        "type": "Gold",
+        "units": 4,
+        "price": 67.1
+    },
+    {
+        "type": "Bronze",
+        "units": 4,
+        "price": 54.28
+    },
+    {
+        "type": "Gold",
+        "units": 6,
+        "price": 80.42
+    },
+    {
+        "type": "Silver",
+        "units": 7,
+        "price": 130.93
+    },
+    {
+        "type": "Silver",
+        "units": 6,
+        "price": 62.95
+    },
+    {
+        "type": "Gold",
+        "units": 9,
+        "price": 107.84
+    },
+    {
+        "type": "Bronze",
+        "units": 2,
+        "price": 112.76
+    },
+    {
+        "type": "Silver",
+        "units": 2,
+        "price": 139.74
+    },
+    {
+        "type": "Gold",
+        "units": 5,
+        "price": 51.38
+    },
+    {
+        "type": "Silver",
+        "units": 1,
+        "price": 61.92
+    },
+    {
+        "type": "Bronze",
+        "units": 6,
+        "price": 112.37
+    },
+    {
+        "type": "Silver",
+        "units": 1,
+        "price": 69.36
+    },
+    {
+        "type": "Gold",
+        "units": 5,
+        "price": 95.92
+    },
+    {
+        "type": "Bronze",
+        "units": 4,
+        "price": 70.54
+    },
+    {
+        "type": "Bronze",
+        "units": 7,
+        "price": 56.16
+    },
+    {
+        "type": "Bronze",
+        "units": 4,
+        "price": 115.21
+    },
+    {
+        "type": "Silver",
+        "units": 8,
+        "price": 100.21
+    },
+    {
+        "type": "Silver",
+        "units": 4,
+        "price": 135.33
+    },
+    {
+        "type": "Bronze",
+        "units": 1,
+        "price": 85.17
+    },
+    {
+        "type": "Silver",
+        "units": 9,
+        "price": 81.02
+    },
+    {
+        "type": "Bronze",
+        "units": 8,
+        "price": 100.84
+    },
+    {
+        "type": "Bronze",
+        "units": 6,
+        "price": 90.93
+    },
+    {
+        "type": "Gold",
+        "units": 9,
+        "price": 111.63
+    },
+    {
+        "type": "Bronze",
+        "units": 3,
+        "price": 80.73
+    }
+]
